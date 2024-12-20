@@ -1,0 +1,23 @@
+.fondo{
+  background-image: url(./img/fondo.avif);
+  background-repeat: no-repeat;
+  background-size: 100vw 100vh;
+
+}
+
+.container{
+  background-color: rgba(67, 255, 255, 0.363);
+}
+
+
+.completada {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.list-group-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px 200px;
+}
